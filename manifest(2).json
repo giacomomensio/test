@@ -1,0 +1,16 @@
+{
+  "background_color": "#ffffff",
+  "description": "a",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "a",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "aaa",
+  "start_url": "https://ivaservizi.agenziaentrate.gov.it/ser/documenticommercialionline/",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": []
+}
